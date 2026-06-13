@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/juramentos-bajo-las-estrellas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Juramentos bajo las estrellas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/juramentos-bajo-las-estrellas/) |
+| **Get License** | [Get a Licensing Quote for Juramentos bajo las estrellas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/juramentos-bajo-las-estrellas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4eae7e1a38d65996e6d0f2c59101a80478207377656d36a8da652baae91540fd` |
 | **Timestamp** | June 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
